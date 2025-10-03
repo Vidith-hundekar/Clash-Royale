@@ -1,1 +1,1 @@
-The part we coded was in team a/b in teams folder
+The part we coded was in teams/a.py teams/b.py folder
